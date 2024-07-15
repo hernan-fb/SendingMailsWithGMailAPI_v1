@@ -8,6 +8,7 @@ build/
 gradle/*
 gradlew.bat
 gradlew
+src/main/resources/credentials.json
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
